@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranee2003&label=Profile%20views&color=0e75b6&style=flat" alt="pranee2003" /> </p>
 
 - 📫 How to reach me **bpraneetha17@gmail.com**
+- 🏫 Student at Vignan's Institue of Engineering for Women
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
