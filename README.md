@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/praneetha baswani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praneetha baswani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/praneetha-baswani-479b42261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praneetha baswani" height="30" width="40" /></a>
 <a href="https://instagram.com/pranee._.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranee._.17" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bpraneetha17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bpraneetha17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/praneetha baswani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praneetha baswani" height="30" width="40" /></a>
