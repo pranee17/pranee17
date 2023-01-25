@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/pranee._.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranee._.17" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bpraneetha17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bpraneetha17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/praneethabaswani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praneetha baswani" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@21nm1a0521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@21nm1a0521" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/21NM1A0521?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@21nm1a0521" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bpraneelvjb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bpraneelvjb" height="30" width="40" /></a>
 </p>
 
