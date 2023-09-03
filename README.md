@@ -32,6 +32,8 @@
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     </p>
+    
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranee17" alt="pranee2003" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranee17&show_icons=true&locale=en&layout=compact" alt="pranee2003" /></p>
 &nbsp;&nbsp;
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pranee17&show_icons=true&locale=en" alt="pranee2003" /></p>
@@ -39,4 +41,3 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pranee17&" alt="pranee2003" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranee17" alt="pranee2003" /></a> </p>
