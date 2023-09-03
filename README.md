@@ -7,12 +7,13 @@
 - 🏫 Student at Vignan's Institue of Engineering for Women
 - 📫 How to reach me *bpraneetha17@gmail.com*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding Platforms :</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/bpraneetha17" target="blank"><img align="center" src="https://vinitshahdeo.github.io/CodeChef-VIT-Website/img/about/logo.jpeg" alt="CODECHEF" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/praneethabaswani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LEETCODE" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/bpraneelvjb" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="GFG" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/21NM1A0521?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HACKERRANK" height="30" width="40" /></a>
+ <h3 align="left">Connect With me :</h3>
  <a href="https://www.linkedin.com/in/praneetha-baswani-479b42261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LINKEDIN" height="30" width="40" /></a>
 <a href="https://instagram.com/pranee._.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="INSTAGRAM" height="30" width="40" /></a>
 
