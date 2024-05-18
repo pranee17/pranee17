@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👩‍💻, I'm Praneetha Baswani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src=
-"![github](https://github.com/pranee17/pranee17/assets/120731376/53657891-58b7-4a39-9983-a8081ab82614)")
+"https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&psig=AOvVaw1FkRW9kKQAq5mfMClC_A9E&ust=1716137285368000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiKgd_Tl4YDFQAAAAAdAAAAABAJ")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranee2003&label=Profile%20views&color=0e75b6&style=flat" alt="pranee2003" /> </p>
